@@ -12,4 +12,5 @@ This template deploys an instance of [RabbitMQ](https://www.rabbitmq.com/) on Ra
 - Deploy, and check out your new RabbitMQ instance!
 ## Links
 RabbitMQ - https://github.com/rabbitmq/rabbitmq-server
+
 Configuration - https://www.rabbitmq.com/configure.html#config-file
