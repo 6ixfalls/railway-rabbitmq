@@ -1,3 +1,3 @@
-FROM rabbitmq:alpine-management
+FROM rabbitmq:management-alpine
 
 ARG RABBITMQ_DEFAULT_USER RABBITMQ_DEFAULT_PASS RABBITMQ_DEFAULT_VHOST
