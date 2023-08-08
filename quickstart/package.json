@@ -1,0 +1,12 @@
+{
+  "name": "railway-rabbitmq",
+  "version": "1.0.0",
+  "description": "Quickstart RabbitMQ on Railway",
+  "main": "index.js",
+  "repository": "https://github.com/6ixfalls/railway-rabbitmq",
+  "author": "Six <23470032+6ixfalls@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
